@@ -35,9 +35,11 @@ Feel free to modify these installation steps based on the specific requirements 
 | <img src="https://github.com/pogihae/Smombie/assets/76048647/a1ac532a-6ccc-4a19-8a93-9d3bb0e54bc4" alt="Image" width="200" height="360" /> | <img src="https://user-images.githubusercontent.com/76048647/236119168-647fa600-6a6b-40f7-84b9-d629b8288438.gif" alt="Image" width="200" height="360" /> |
 
 Demo Video - Click to Play!
+<p>
 <a href='https://youtube.com/video/ECNi-IljLDc'>
   <img src="http://img.youtube.com/vi/ECNi-IljLDc/maxresdefault.jpg" alt="Watch the video" width="800" height="450" border="10" />
 </a>
+</p>
 
 > Note: Provided app is only available in Gachon University. You must train your own data.
 
